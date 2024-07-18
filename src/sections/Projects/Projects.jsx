@@ -32,13 +32,13 @@ function Projects() {
           p="Facial Expression Classifier"
           
         />
-        <ProjectCard
+        {/* <ProjectCard
           src={chatbot}
           link="https://github.com/Ade-mir/company-landing-page-2"
           h3="Chat App"
           p="Real-Time Chat"
           
-        />
+        /> */}
       </div>
     </section>
   );
