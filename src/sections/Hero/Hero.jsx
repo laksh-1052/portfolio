@@ -31,7 +31,7 @@ function Hero() {
           className={styles.hero}
           style={round}
           // style="border-radius: 50%;"
-          alt="Profile picture of Harris Johnsen"
+          alt="Profile picture of me"
         />
         <img
           className={styles.colorMode}
